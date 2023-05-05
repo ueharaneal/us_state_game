@@ -4,4 +4,6 @@ Guess all 50 states! Unguessed states will be saved for you to look at and study
 # Quick start
 You will need to download the pandas library
   `pip install pandas`
+
+Now run the code and start guessing! 
   
