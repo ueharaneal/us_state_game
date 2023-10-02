@@ -6,4 +6,8 @@ You will need to download the pandas library
   `pip install pandas`
 
 Now run the code and start guessing! 
-  
+
+# Technology Used
+-Python
+-Pandas
+-Tkinter
