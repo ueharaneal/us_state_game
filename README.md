@@ -1,6 +1,5 @@
 # US State Game
 
-![US State Game](game_screenshot.png)
 
 Test your knowledge of US states by guessing all 50 states! Unguessed states will be saved for you to review and study once the game is over.
 
