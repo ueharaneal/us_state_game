@@ -9,6 +9,9 @@ Test your knowledge of US states by guessing all 50 states! Unguessed states wil
 
    ```bash
    pip install pandas
+
+    ```bash
+   pip install pandas
 Run the Game: Now run the Python code and start guessing! Have fun and see how many states you can identify.
 Technology Used
 This game is built using the following technologies:
