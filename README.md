@@ -1,19 +1,19 @@
-# US State Game
-
+US State Game
 Test your knowledge of US states by guessing all 50 states! Unguessed states will be saved for you to review and study once the game is over.
 
-## Quick Start
+Quick Start
+Install Dependencies: You will need to download the pandas library. You can install it using pip:
 
-1. **Install Dependencies**: You will need to download the `pandas` library. You can install it using `pip`:
-
-   ```bash
-   pip install pandas
+bash
+Copy code
+pip install pandas
 If you are using Python 3, use pip3:
 
 bash
 Copy code
 pip3 install pandas
 Run the Game: Now run the Python code and start guessing! Have fun and see how many states you can identify.
+
 Technologies Used
 This game is built using the following technologies:
 
