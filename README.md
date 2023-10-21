@@ -1,6 +1,7 @@
 # US State Game
 
 Test your knowledge of US states by guessing all 50 states! Unguessed states will be saved for you to review and study once the game is over.
+<img width="751" alt="Screenshot 2023-10-19 at 3 11 08 AM" src="https://github.com/ueharaneal/us_state_game/assets/79432460/8f0721f7-b6ec-476f-9b5c-01b135ee7843">
 
 ## Quick Start
 
